@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>I&#39;ll think of a witty title later</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on I&#39;ll think of a witty title later</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;h2 id=&#34;hi-im-lilith&#34;&gt;Hi I&amp;rsquo;m Lilith!
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m a :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🏳️‍⚧️ Non binary trans fem&lt;/li&gt;
+&lt;li&gt;👩‍💻 Programmer&lt;/li&gt;
+&lt;li&gt;🎸 Musician&lt;/li&gt;
+&lt;li&gt;✊ Anarcho Communist&lt;/li&gt;
+&lt;li&gt;🚅 Train and public transport nerd&lt;/li&gt;
+&lt;li&gt;🤖 Fan of anything with robots in it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This blog will probably be about to the above topics, but will probably be absolutely all over the place.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Programming</title>
+        <link>http://localhost:1313/programming/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/programming/</guid>
+        <description>&lt;h1 id=&#34;tricking-rocks-into-thinking-using-magic-words&#34;&gt;Tricking rocks into thinking using magic words
+&lt;/h1&gt;&lt;p&gt;By trade I am programmer working in the audio industry. Outside of my day job, I enjoy making games and hacking together small software toys.&lt;/p&gt;
+&lt;h3 id=&#34;languages-and-frameworks&#34;&gt;Languages and frameworks
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;C++
+&lt;ul&gt;
+&lt;li&gt;Making realtime audio tools using &lt;a class=&#34;link&#34; href=&#34;https://juce.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;JUCE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Making games using &lt;a class=&#34;link&#34; href=&#34;https://www.libsdl.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SDL&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://www.raylib.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Raylib&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;C#
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;Suffering&lt;/del&gt; Scripting game objects using Unity 3D&lt;/li&gt;
+&lt;li&gt;Making games in &lt;a class=&#34;link&#34; href=&#34;https://monogame.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MonoGame&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This list isn&amp;rsquo;t exhaustive, so its probably best to look at my &lt;a class=&#34;link&#34; href=&#34;https://github.com/8bitBlackMage&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt; or get in touch if you want to discuss stuff in specific.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

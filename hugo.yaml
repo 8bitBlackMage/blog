@@ -1,0 +1,42 @@
+baseurl: https://example.com
+languageCode: en-us
+theme: hugo-theme-stack
+paginate: 3
+title: I'll think of a witty title later
+
+
+params:
+    article:
+      readingTime: false
+
+menu:
+    main: 
+        - identifier: about
+          name: about
+          url: "/about"
+          params:
+            icon: user
+        - identifier: programming
+          name: programming 
+          url: "/programming"
+          params:
+            icon: code-brackets-square
+
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/8bitBlackMage
+          params:
+              icon: github
+
+        - identifier: mastodon
+          name: Mastodon
+          url: https://toot.lgbt/@lilithblackmage
+          params:
+              icon: mastodon
+
+        - identifier: instagram
+          name: Instagram
+          url: https://www.instagram.com/lilith_the_black_mage/
+          params:
+            icon: instagram
