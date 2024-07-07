@@ -8,8 +8,9 @@ outputs:
     home : ["HTML", "RSS"]
 
 
+
 params:
-    rssFullContent: true
+    rssFullContent: false
     article:
       readingTime: false
     imageProcessing:
