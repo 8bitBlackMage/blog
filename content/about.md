@@ -1,8 +1,13 @@
-+++
-title = 'About'
-draft = false
-+++
-
+---
+title: 'about'
+draft: false
+menu:
+    main:
+        weight: -100
+        params: 
+            icon: user
+---
+<a rel="me" href="https://toot.lgbt/@lilithblackmage"></a>
 ## Hi I'm Lilith!
 
 I'm a :
@@ -15,3 +20,14 @@ I'm a :
 
 This blog will probably be about to the above topics, but will probably be absolutely all over the place. 
 
+## Computer stuff 
+* Kubuntu Linux 24.04
+* KDE Desktop 
+* CLion IDE / NeoVim / VS Code 
+
+
+
+### Other places to find me: 
+* [Steam](https://steamcommunity.com/id/LilithBlackMage)
+* [Letterboxd](https://letterboxd.com/lilithblackmage/)
+* [Serialized](https://www.serializd.com/user/lilithblackmage/profile)

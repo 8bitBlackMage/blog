@@ -1,7 +1,12 @@
-+++
-title = 'Programming'
-draft = false
-+++
+---
+title: 'programming'
+draft: false
+menu:
+    main:
+        weight: -90
+        params: 
+            icon: code-brackets-square
+---
 
 # Tricking rocks into thinking using magic words
 
