@@ -1,7 +1,7 @@
 +++
 title = 'Moving to Linux full time'
 draft = true
-date = 2024-07-07T10:13:47+01:00
+date = 2024-07-09T09:30:00+01:00
 categories = [
     "Computing"
 ]
@@ -55,3 +55,5 @@ Naturally, Coding on linux is as easy as it is on Windows. I don't make use of a
 ## Conclusion 
 
 Overall Im very satisfied with the switchover and struggle to find any reason to go back to Windows at all. Whenever I have to use Window now in fact, I find all of the reasons I switched to be even more glaring. Luckily I only have to use it for work and startallback makes it just about tolerable. 
+
+![my current desktop layout, with obligatory Neofetch ](desktop.png)
