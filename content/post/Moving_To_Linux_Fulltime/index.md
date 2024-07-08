@@ -16,7 +16,7 @@ tags = [
 
 I have been a user of Linux for over a decade now. Ever since my first laptop, an ancient Dell Latitude with a Pentium M, was rendered a paperweight by applications dropping support for Windows XP, the newest version of windows that the computer could reliably run. A quick install of Ubuntu 12.04 managed to buy the computer well over 2 years of extended life until the backlight gave out and it was well and truly dead.
 
-Ever Since then, every computer I've had has had a version of Linux installed alongside Windows. But I've never managed to move exclusively away from Windows as there has always been software that I've needed that didn't run on Linux, usually tools made by Microsoft themselves be it the Microsoft Office Suite at school or Visual Studio at university. 
+Ever Since then, every computer I've had has had a version of Linux installed alongside Windows. But I've never managed to move exclusively away from Windows for more than a month or two as there has always been software that I've needed that didn't run on Linux, usually tools made by Microsoft themselves be it the Microsoft Office Suite at school or Visual Studio at university. 
 
 And for the most part it wasn't an issue. Sure Windows 8 was a usability nightmare without 3rd party applications that re-added basic desktop functionality, and Windows 10 slowly but surely chocked to death on half baked features and adverts, it was all manageable with the right registry edits and workarounds. But it sure didn't feel good
 
@@ -46,4 +46,12 @@ The first game I tried was Sid Miers Civilization V (not exactly a taxing game I
 
 Emboldened by just how well Steam games went I looked to my physical game collection, specifically, Neverwinter Nights. After some research I found a program called Lutris, which acts as a frontend and install manager for games, and like Steam it worked absolutely amazingly. the game installed with less trouble than I had getting the game working on Windows 11.
 
-Overall, I have installed about a third of my steam library and all of my physical games. out of all of those that I've tried I have only had two games give me issues, and both of them have easy workarounds.
+Overall, I have installed about a third of my steam library and all of my physical games. out of all of those that I've tried I have only had two games give me issues, and both of them have easy workarounds, a far cry from when I tried this last time. 
+
+## And everything else? 
+
+Naturally, Coding on linux is as easy as it is on Windows. I don't make use of any proprietary Windows APIs, if anything I try to avoid it. Web Browsing is well, Web Browsing. Google wouldn't have based ChromeOS on Linux if it wasn't good at it. Sadly recording and editing music is still very much a sticking point. My DAW of choice, Reaper, getting a native port is one thing. But nearly all major Plug-In manufacturers aren't making Linux binaries at the moment, and don't seem to be making any serious moves towards doing so. If my experience of the industry is anything to go by, until copy protection tools like iLok get native support, its unlikely that anything is gonna change any time soon. 
+
+## Conclusion 
+
+Overall Im very satisfied with the switchover and struggle to find any reason to go back to Windows at all. Whenever I have to use Window now in fact, I find all of the reasons I switched to be even more glaring. Luckily I only have to use it for work and startallback makes it just about tolerable. 
