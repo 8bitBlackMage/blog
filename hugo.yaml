@@ -1,16 +1,23 @@
 baseurl: https://lilithblackmage.co.uk
 languageCode: en-us
-theme: hugo-theme-stack
+theme: 8bbm-hugo-theme-stack
 paginate: 3
 title: I'll think of a witty title later
 
 outputs:
-    home : ["HTML", "RSS"]
-
+  home:
+  - html
+  - rss
+  section:
+  - html
+  - rss
+  taxonomy:
+  - html
+  term:
+  - html
 
 
 params:
-    rssFullContent: false
     article:
       readingTime: false
     imageProcessing:
