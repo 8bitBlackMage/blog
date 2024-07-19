@@ -64,4 +64,10 @@ menu:
           url: https://www.instagram.com/lilith_the_black_mage/
           params:
             icon: instagram
+        
+        - identifier: rss
+          name: RSS
+          url: index.xml
+          params:
+            icon: rss
 
