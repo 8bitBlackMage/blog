@@ -18,6 +18,7 @@ outputs:
 
 
 params:
+    rssFullContent: true
     article:
       readingTime: false
     imageProcessing:
