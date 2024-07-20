@@ -18,6 +18,7 @@ outputs:
 
 
 params:
+    favicon: /favicon.ico
     rssFullContent: true
     article:
       readingTime: false
