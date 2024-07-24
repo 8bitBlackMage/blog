@@ -1,6 +1,6 @@
 +++
 title = 'Rail Nationalisation: What I want to see'
-draft = true
+draft = false
 date = 2024-07-24T11:45:00+01:00
 categories = [
     "Politics",
