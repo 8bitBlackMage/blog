@@ -96,6 +96,8 @@ So that brings us to today, we have a new Labour (ish) government proposing the 
 
 * **Ensure old rolling stock is properly preserved** Privatisation lead to a very large scale replacement of rolling stock, especially in the southern region, and in my opinion not enough was done to preserve units for their historic value. the class 442 is a very good example of this, where one cab and one driver carriage has been saved, with every other unit scrapped. Some form of GBR railway museum would be fantastic for perseveration. 
 
+![A Class 442 in Network SouthEast Livery at Weymouth station in September 1992](class442.jpg "The Class 442, the fastest third rail train in the world \\ By Lamberhurst - Own work, CC BY-SA 4.0,\\ https://commons.wikimedia.org/w/index.php?curid=35097470")
+
 * **Incentivise major cities to build and expand their own rapid transport network** As cities in the UK get bigger, its becoming abundantly clear that a network of just buses is not enough. Manchester, Birmingham, Glasgow Liverpool and Newcastle all have varying levels of rapid transport (no, Im not counting the singular Edinburgh tram route as a rapid transport network, network implies there is more than one route.), but all of them need expansion to reduce car dependency. a rapid transport system that integrates well with heavy rail, such as what exists currently in London should be seen as an aspirational goal for all cities here in the UK. 
 
 
