@@ -1,7 +1,7 @@
 +++
 title = 'Rail Nationalisation: What I want to see'
 draft = true
-date = 2024-07-24T12:00:00+01:00
+date = 2024-07-24T11:45:00+01:00
 categories = [
     "Politics",
     "Transport"
@@ -106,3 +106,5 @@ So that brings us to today, we have a new Labour (ish) government proposing the 
 So thats my wishlist, its a bit idealistic in places, and would require more legislative changes than an override of the 1993 Railways act, but I genuinely think that the rail network in the UK is hugely underutilised and could be genuine force for social progress if change were implemented. Overall I think the most important thing for whatever body comes in to replace the franchises is they need to stop thinking of transport as a profit generating exercise. If there is one consistant thread throughout the history of public transport in this country, it is that vital changes have been put off or ignored until too late in the name of saving money and short term profit is viewed with more importance than long term sustainability. 
 
 I don't think the new Labour Government will institute many of the changes I've outlined here, if for no other reason than they seem to be wedded to the same neoliberal monetary policies that were used to justify selling BR and many other services off in the first place, but I hope that at some point in the future we can have a public transport system that works for all of us. 
+
+(A huge thank you to Wikimedia projects and the photographers credited for the additional photos on this post. As much of a train nerd as I am, I lack a time machine that would allow me to go and get photos of old trains in old liveries.)
