@@ -11,7 +11,7 @@ menu:
 ## Hi I'm Lilith!
 
 I'm a :
-* 🏳️‍⚧️ Non binary trans fem 
+* 🏳️‍⚧️ trans woman (she / her pls)
 * 👩‍💻 Programmer
 * 🎸 Musician 
 * ✊ Anarcho Communist 
