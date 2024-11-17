@@ -68,7 +68,7 @@ menu:
 
         - identifier : bluesky
           name: Bluesky
-          url: https://bsky.app/profile/lilithblackmage.bsky.social
+          url: https://bsky.app/profile/lilithblackmage.co.uk
           params:
             icon: bluesky     
 
