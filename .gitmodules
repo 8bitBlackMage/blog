@@ -1,3 +1,4 @@
-[submodule "themes/8bbm-hugo-theme-stack"]
-	path = themes/8bbm-hugo-theme-stack
-	url = https://github.com/8bitBlackMage/hugo-theme-stack.git
+
+[submodule "themes/re-terminal"]
+	path = themes/re-terminal
+	url = https://github.com/mirus-ua/hugo-theme-re-terminal.git

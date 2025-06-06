@@ -1,6 +1,7 @@
 +++
 title = 'Hello'
 draft = false
+cover = "cat.jpeg"
 date = 2024-07-07T10:13:47+01:00
 +++
 

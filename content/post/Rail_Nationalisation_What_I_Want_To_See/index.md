@@ -1,6 +1,8 @@
 +++
 title = 'Rail Nationalisation: What I want to see'
 draft = false
+cover = "img/class442.jpg"
+description = "A wish list of the new state owned railway"
 date = 2024-07-24T11:45:00+01:00
 categories = [
     "Politics",

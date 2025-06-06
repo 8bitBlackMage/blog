@@ -1,6 +1,8 @@
 +++
 title = 'Moving to Linux full time'
 draft = false
+cover = "desktop.png"
+description  = "I finally ran away from Windows"
 date = 2024-07-09T09:30:00+01:00
 categories = [
     "Computing"

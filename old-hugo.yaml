@@ -1,7 +1,7 @@
 baseurl: https://lilithblackmage.co.uk
 languageCode: en-us
-theme: 8bbm-hugo-theme-stack
-paginate: 3
+#theme: 8bbm-hugo-theme-stack
+pagination.pagerSize: 3
 title: I'll think of a witty title later
 
 outputs:
