@@ -92,7 +92,7 @@ So that brings us to today, we have a new Labour (ish) government proposing the 
 
 * **Level boarding at platforms**: The fact the UK has barely made any steps towards level boarding is madness. We need to define a standard platform and carriage heights for new rolling stock. the state of platforms currently leads to [injuries](https://www.bbc.co.uk/news/articles/cqe6zm53neyo) and prevents people with reduced mobility from using our rail network. 
 
-* **Freight and non passenger services**: Once again, I find it mind boggling that freight isn't better used in this country. Why in the age of online every station in a town or city doesn't have a goods yard anymore is beyond me, shopping hundreds of trucks could be kept of the road  by having all but the last minute haulage be handled by freight rail. Every opportunity to reduce the number of road vehicles should be at least considered.
+* **Freight and non passenger services**: Once again, I find it mind boggling that freight isn't better used in this country. Why in the age of online shopping every station in a town or city doesn't have a goods yard anymore is beyond me, shopping hundreds of trucks could be kept of the road  by having all but the last minute haulage be handled by freight rail. Every opportunity to reduce the number of road vehicles should be at least considered.
 
 ### Miscellaneous 
 
