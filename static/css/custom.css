@@ -25,3 +25,22 @@
   background: repeating-linear-gradient(90deg, var(--accent), var(--accent) 2px, transparent 0, transparent 5px);
 
 }
+
+
+.contact{
+  border: 1px solid var(--accent);
+  padding: 20px;
+  display: block;
+  color: orange;
+  align-items: center;
+  table, th, td {
+  border: 0px;
+  text-align: left;
+}
+  input, textarea { 
+    width: 100%;
+    float: left;
+   }
+
+
+}

@@ -28,11 +28,14 @@ This blog will probably be about to the above topics, but will probably be absol
 {{< break >}}
 
 ## Computer stuff 
-* Kubuntu Linux 24.04
+* Arch Linux
 * KDE Desktop 
-* CLion IDE / NeoVim / VS Code 
+* / NeoVim / VS Code 
 
 ### Other places to find me: 
+* [bluesky](https://bsky.app/profile/lilithblackmage.co.uk)
+* [Github](https://github.com/8bitBlackMage)
+* [instagram](https://www.instagram.com/lilith_the_black_mage/)
 * [Steam](https://steamcommunity.com/id/LilithBlackMage)
 * [Letterboxd](https://letterboxd.com/lilithblackmage/)
 * [Serialized](https://www.serializd.com/user/lilithblackmage/profile)
