@@ -21,7 +21,7 @@
   margin-top: 5%;
   height: 2px;
   display: block;
-  color: orange;
+  color: var(--accent);
   background: repeating-linear-gradient(90deg, var(--accent), var(--accent) 2px, transparent 0, transparent 5px);
 
 }
@@ -31,7 +31,7 @@
   border: 1px solid var(--accent);
   padding: 20px;
   display: block;
-  color: orange;
+  color: var(--accent);
   align-items: center;
   table, th, td {
   border: 0px;
@@ -43,4 +43,8 @@
    }
 
 
+}
+.caption {
+  text-align: center;
+  align-items: center;
 }

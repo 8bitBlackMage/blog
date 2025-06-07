@@ -24,7 +24,15 @@ Apologies if I get a bit to in the weeds with this *zips up anorak*
 
 Private running of our railways wasn't exactly a new concept, going back to its earliest days the railways were entirely privately run with basically zero oversight by the government, only needing an act of parliament to allow the construction of the tracks. Throughout the mid to late 1800s several laws were put on the books to try and establish basic rules for railways such as a common track gauge and semi standardised ticket types, but the system was still fragmented, messy and confusing for the passenger. Grouping after the First World War did some work to making the system work in the common interest, but it wasn't until 1947 where the government took over the bombed ruins of the railways and created British Rail.
 
-![Class 43 HST at Cardiff Central Station circa 1980](intercity125.jpg "The Intercity 125 units are regarded by many as the pinnical of British Rail's modernisation efforts \\ Photographed at Edinburgh Waverley in May 2024")
+
+{{< image
+    src = "intercity125.jpg"
+    caption = "The Intercity 125 units are regarded by many as the pinnical of British Rail's modernisation efforts"
+    attr = "By Me, Photographed at Edinburgh Waverley in May 2024"
+    alt = "Class 43 HST at Cardiff Central Station circa 1980"
+
+>}}
+
 
 This public body wasn't without issues, the Beeching cuts led to many smaller lines being closed despite being vital to the communities they served, and the system was chronically underfunded, especially during its later years under the Thatcher government. Under John Major's government, emboldened by the EU directive making it a requirement to allow for private operators to run on railway infrastructure, the Railways Act 1993 was passed, breaking up British rail into hundreds of companies. The most important ones being:
 
@@ -33,7 +41,16 @@ This public body wasn't without issues, the Beeching cuts led to many smaller li
 * **Railtrack** : The company entrusted with the maintaining the track and other infrastructure.
 
 The first casualty of the privatised railway was Connex, who held the franchise of the South Central region (services from Brighton, Littlehampton, Bognor Regis and Portsmouth to London), when the Strategic Railway Authority stripped them of the franchise after just 5 years due to poor financial management. 
-![Connex South Central Train at Wandsworth Road](connex.jpg "Connex Train Leaves Wandsworth in 2001 \\ By Steve Jones - Own work, CC BY-SA 4.0, \\ https://commons.wikimedia.org/w/index.php?curid=139514981")
+
+{{< image
+    src = "connex.jpg"
+    caption = "Connex Train Leaves Wandsworth in 2001"
+    attr = "By Steve Jones - Own work, CC BY-SA 4.0"
+    attrlink = "https://commons.wikimedia.org/w/index.php?curid=139514981"
+    alt = "Connex South Central Train at Wandsworth Road"
+
+>}}
+
 
 Shortly after this, Railtrack, which had been under immense scrutiny after several high profile rail disasters, collapsed. It turned out that trying to extract profit from the routine maintenance of Infrastructure lead to corners being cut and a decrease in service quality, who would have thought? The job of Railtrack was given to a non profit body called Network Rail.
 
@@ -44,7 +61,16 @@ There are many other cases of Franchises being stripped or collapsing, I would r
 One of the clearest signs of the failures of the system implemented by the 1993 act are the Operators of Last Resort. These are private companies set up by the government to take over the running of a franchise when they collapse or OLRs . The first usage of these was when the Strategic Rail Authority stripped Connex South Eastern for, you guessed it, poor financial management. This publicly owned operator ran the franchise for just over 3 years before being put back out to tender and run again by the private sector. Funnily enough this same franchise is currently also run by a OLR as the previous franchise had account discrepancies in the 10s of millions of pounds. 
 
 In the 30 years of the private sectors operation of the trains we have seen 7 of these ORLs (not including the Welsh and Scottish operators that have used this legislation to run quasi nationalised systems). One interesting case of this is the East Coast Franchise, where every private franchise has imploded spectacularly, whilst the 2 public operators ran relatively smoothly and have generated consistant profit. 
-![LNER InterCity 225 at Leeds Station](lner.jpg "LNER Took over the East Coast Franchise in june 2018 from Virgin Trains East Coast \\ Photographed at Leeds Station December 2022")
+
+
+{{< image
+    src = "lner.jpg"
+    caption = "LNER Took over the East Coast Franchise in june 2018 from Virgin Trains East Coast "
+    attr = "By Me, Photographed at Leeds Station December 2022 "
+    alt = "LNER InterCity 225 at Leeds Station"
+
+>}}
+
 
 ### The Pandemic and the end of franchising
 
@@ -59,7 +85,15 @@ So that brings us to today, we have a new Labour (ish) government proposing the 
 * **Flat ticket pricing**: Ticket Pricing is incredibly confusing at the moment, there are 5 different types of tickets you can get for a single or return journey, all with different pricing and restrictions. Its a system that has even confused ticket inspectors on occasion (and lead to me nearly being kicked off of a train despite having a valid ticket). The actual pricing of tickets is up to the TOC and is often set without rhyme or reason. A nationalized operator would need to set out clear and transparent rules on ticket pricing and passengers would definitely benefit from a simplified ticketing system, even down to one type of ticket for a single journey and a season ticket for commuters. 
 
 * **Nationwide rollout of a Smart Card system**: London has had great success with its Oyster Scheme and the entire nation of The Netherlands has been able to implement its OV-chipkaart system as an integrated payment method for payment on its services. Travel in the UK would be made so much more convenient if all that was needed to get on a train was tapping a card. 
-![A Collection of Oyster Cards, one Standard, two commemorative](oyster.jpg "Oyster Cards have been hugely successful in London")
+
+{{< image
+    src = "oyster.jpg"
+    caption = "Oyster Cards have been hugely successful in London "
+    attr = "By Me"
+    alt = "A Collection of Oyster Cards, one Standard, two commemorative"
+
+>}}
+
 *  **Better integration with buses**: Buses are a necessity for an integrated transport system, especially in rural areas. Train Stations need to have options for buses to stop at them and bus timetables should be set in such a way that allows them to easily get on a train.  
 
 * **Increase late night and weekend operations**: As someone who frequently goes to gigs, I have lost track of the amount of times where I have had to leave early to make the last train. Running trains where possible into the early morning (like 1-2am) in more areas would help revitalize nightlife in towns and cities and allow more people to get home safely from late night activities. 
@@ -84,7 +118,13 @@ So that brings us to today, we have a new Labour (ish) government proposing the 
 
 * **Electrify all passenger routes**: At the time of writing only around 40% of track in the UK is electrified, this means that a large percentage of services are run with diesel units, even when a large percentage of the route is actually able to be run electrically. This can be mitigated somewhat with BiModal or even TriModal units, but that is a band aid solution and often a worst of all worlds scenario. With the threat of global climate disaster we need to be reducing our dependance on Oil at every opportunity.  
 
-![SWR Class 158 Express Sprinter at Winchester Station](swr_dmu.jpg "SWR Runs DMU stock on mostly electrified routes due to small sections remaining un-electrified \\ Photographed at Winchester Station March 2022" )
+{{< image
+    src = "swr_dmu.jpg"
+    caption = "SWR Runs DMU stock on mostly electrified routes due to small sections remaining un-electrified"
+    attr = "Photographed at Winchester Station March 2022"
+    alt = "SWR Class 158 Express Sprinter at Winchester Station"
+
+>}}
 
 * **Actually build HS2, connect it to HS1 and improve rail services with Europe**: Following on from the previous point, if we want to reduce the use of cars, we ned to make rail journeys faster and more convenient. A high speed rail corridor between the north and London is vital to meet that goal. In addition, not connecting HS2 to HS1 makes both of them far less appealing, especially for those in the north. Finally, if we want to reduce our dependence on planes, we need to increase our train services that travel to Europe. When the Channel Tunnel was being built, a lot of hay was made about services from "Manchester to Paris" and "Newcastle to Nice" . but this never happened, Services were stuck in London. If we want to tackle budget airlines, we need to be able to offer comparable routes. 
 
@@ -98,7 +138,15 @@ So that brings us to today, we have a new Labour (ish) government proposing the 
 
 * **Ensure old rolling stock is properly preserved** Privatisation lead to a very large scale replacement of rolling stock, especially in the southern region, and in my opinion not enough was done to preserve units for their historic value. the class 442 is a very good example of this, where one cab and one driver carriage has been saved, with every other unit scrapped. Some form of GBR railway museum would be fantastic for perseveration. 
 
-![A Class 442 in Network SouthEast Livery at Weymouth station in September 1992](class442.jpg "The Class 442, the fastest third rail train in the world \\ By Lamberhurst - Own work, CC BY-SA 4.0,\\ https://commons.wikimedia.org/w/index.php?curid=35097470")
+
+{{< image
+    src = "class442.jpg"
+    caption = "The Class 442, the fastest third rail train in the world"
+    attr = "By Lamberhurst - Own work, CC BY-SA 4.0"
+    attrlink = "https://commons.wikimedia.org/w/index.php?curid=35097470"
+    alt = "A Class 442 in Network SouthEast Livery at Weymouth station in September 1992"
+
+>}}
 
 * **Incentivise major cities to build and expand their own rapid transport network** As cities in the UK get bigger, its becoming abundantly clear that a network of just buses is not enough. Manchester, Birmingham, Glasgow Liverpool and Newcastle all have varying levels of rapid transport (no, Im not counting the singular Edinburgh tram route as a rapid transport network, network implies there is more than one route.), but all of them need expansion to reduce car dependency. a rapid transport system that integrates well with heavy rail, such as what exists currently in London should be seen as an aspirational goal for all cities here in the UK. 
 

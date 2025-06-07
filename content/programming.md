@@ -24,6 +24,8 @@ By trade I am programmer working in the audio industry. Outside of my day job, I
 * Python
 * Golang
     * Making a 2D RPG in Golang using [Ebitengine](https://ebitengine.org/)
+* Web
+    * Maintaining this blog with custom  HTML, CSS and JS elements
 
 This list isn't exhaustive, so its probably best to look at my [GitHub](https://github.com/8bitBlackMage) or get in touch if you want to discuss stuff in specific. 
 

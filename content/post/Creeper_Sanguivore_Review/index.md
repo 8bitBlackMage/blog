@@ -9,7 +9,7 @@ date = 2025-06-06T10:13:47+01:00
 (This was originally written on my tumblr blog a little while ago, with Creeper announcing their new record Sanguivore 2: Mistress of Death, I thought it would be worth remastering it)
 
 
-## intro
+## Intro
 I made a post on here about a year ago about seeing Creeper play a headline show at London’s Roundhouse, a show which brought an end to the era of their last album, Sex Death and the Infinite Void, and an end to their time with American creativity devouring label Roadrunner. it also came with a new song Ghost Brigade to set the tone of the new era and hold fans over for a full release at some point in the future.
 
 This show came at a really interesting time for my relationship with the band, I had been falling out of love with them slowly but surely since the end of their first album cycle back in 2018. A combination of a disappointing ending to the album cycle and very disappointing second album cycle, my tastes changing and a several unpleasant experiences with other fans lead to me being very ready to bookend my fandom of this band with a show, something I’ve done with other bands in the past. Luckily the show went some way to revitalizing my appreciation for them.
@@ -56,7 +56,13 @@ I think my biggest criticism of the album is the lyricism, now lyrics have never
 Overall this album represents a return to form not seen since the 2016 EP ‘The Stranger’ (potentially earlier depending on who you ask). Creeper have embraced what worked about their early work while being able to experiment with new sounds and styles on this record, leading to their best Album by a mile. it’s cheesy yes, but they lean into it in a way that makes this the musical equivalent of a hammer horror film
 
 
-![William Von Ghould performing at one of the dates on the "intimate" tour in support of sanguivore](William.jpeg)
+ {{< image 
+    src ="William.jpeg"
+    caption = "Creeper Performing on their 12 Days of Night tour "
+    attr = "Credit P.K Photography"
+    attrlink = "https://www.instagram.com/pk_photogrxphy/"
+    alt = "William Von Ghould Singing with the band Creeper at on their 12 Days of Night Tour"
+ >}} 
 
 ## My thoughts in 2025
 
