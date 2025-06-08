@@ -4,6 +4,7 @@ draft = false
 cover = "img/Switch 2 Review.png"
 description = "Initial Impressions of Nintendo's new console"
 date = 2025-06-07T10:13:47+01:00    
+socialshare = true
 +++
 
 Its been just over of 8 years since Nintendo released the Nintendo Switch, a hybrid handheld/home console system that managed to make Nintendo a serious contender in the console space again after the mess of the Wii U. Now they are trying to continue this success with the direct successor console the Nintendo Switch 2. 
@@ -157,8 +158,8 @@ Personally it has felt less and less necessary to pick up consoles at launch in 
 
 No real order to these, just things I wanna see happen on the Switch 2 this generation 
 
-- A New, non open world, Zelda game (BoTW and ToTK were great but some normal zelda would be nice )
-- A New Pilotwings game, or even just a remaster of Pilotwings resort 
+- A New, non open world, Zelda game (BoTW and TotK were great but some normal zelda would be nice )
+- A New Pilotwings game, or even just a remaster of Pilotwings Resort 
 - Nintendo fixes their Eshop criteria and removes all the AI Slop and Porn
 - Custom themes (please, let me make my home menu pink or orange, or just something other than monochrome)
 - Wii Nintendo Classics (its basically just a Gamecube with more RAM, right?)

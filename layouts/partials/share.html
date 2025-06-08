@@ -1,0 +1,40 @@
+  {{ $title := .Title }}
+  {{ $url := printf "%s" .Permalink }}
+  {{ $body := print $title ", by  Lilithblackmage \n" $url "\n" }}
+
+
+
+    <script>
+      function ResetCopyButton() {
+        document.getElementById("Copy").textContent="Copy Link";
+      }
+
+      function CopyURL() {
+        navigator.clipboard.writeText( "{{.Permalink}}");
+        document.getElementById("Copy").textContent="Copied!";
+        setTimeout(ResetCopyButton,1000)
+      }
+    </script>
+    <h1>Share: </h1>
+    <div style="display: flex;">
+      <button class="social">
+        <a href="https://bsky.app/intent/compose?text=Check out {{ .Title }} by Lilithblackmage: %0A%0A {{ .Permalink }}" target="_blank" rel="noopener">
+        <i class="nf nf-fae-butterfly"></i>
+          <span>Bluesky</span>
+        </a>
+      </button>
+      <button class="social">
+        <a href="mailto:?subject={{ .Site.Title }} - {{ $title }}.&amp;body={{ $body }}" target="_blank" class="share-btn email">
+        <i class="nf nf-md-email"></i>
+        <span>Email</span>
+        </a>
+      </button>
+      <button class="social" onclick="CopyURL()"  >
+        <i class="nf nf-fa-share"></i>
+        <span id="Copy">Copy Link</span>
+
+        </a>
+      </button>
+      </div>
+
+
