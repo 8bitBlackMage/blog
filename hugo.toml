@@ -18,7 +18,7 @@ unsafe = true
   contentTypeName = "post"
 
   # ["orange", "blue", "red", "green", "pink", "paper"]
-  themeColor = "orange"
+  themeColor = "light-pink"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
@@ -52,7 +52,7 @@ unsafe = true
   # oneHeadingSize = true # default
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+   readingTime = true # default
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
@@ -72,7 +72,7 @@ unsafe = true
 
 
 
-[params.twitter]
+[params.bluesky]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
@@ -103,20 +103,18 @@ unsafe = true
       logoImage = "img/avatar.png"
 
     [languages.en.menu]
-
       [[languages.en.menu.main]]
-        identifier = "aboutParent"
-        name = "About"
-      [[languages.en.menu.main]]
-        parent = "aboutParent"
         identifier = "about"
         name = "About Me"
         url = "/about"
       [[languages.en.menu.main]]
-        parent = "aboutParent"
         identifier = "programming"
         name = "Programming"
         url = "/programming"
+      [[languages.en.menu.main  ]]
+        identifier = "badges"
+        name = "Badges"
+        url = "/badges"
 
 
 # [module]
