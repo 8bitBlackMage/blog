@@ -1,13 +1,11 @@
----
-title: 'about'
-draft: false
-hide_share: true
-menu:
-    main:
-        weight: -100
-        params: 
-            icon: user
----
++++
+title = "about"
+draft = false
+hide_share=  true
+[Sitemap]
+    no_RSS= true
+
++++
     
 ## Hi I'm Lilith!
 {{< column >}}

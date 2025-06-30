@@ -1,14 +1,11 @@
----
-title: 'programming'
-draft: false
-hide_share: true
++++
+title = 'programming'
+draft = false
+hide_share = true
+[Sitemap]
+    no_RSS = true
 
-menu:
-    main:
-        weight: -90
-        params: 
-            icon: code-brackets-square
----
++++
 
 # Tricking rocks into thinking using magic words
 
