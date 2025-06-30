@@ -1,7 +1,7 @@
 +++
 title = 'Hello'
 draft = false
-cover = 'cat.jpeg'
+
 description = "Hi"
 date = 2024-07-07T10:13:47+01:00
 

@@ -5,7 +5,12 @@ languageCode = "en-us"
 theme = "re-terminal"
 pagination.pagerSize = 3
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
+
+
 
   custom_css = ["css/custom.css", ]
   # dir name of your main content (default is `content/posts`).
@@ -38,7 +43,7 @@ pagination.pagerSize = 3
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon = "favicon.ico"
+  favicon = "img/favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   updatedDatePrefix = "Updated"

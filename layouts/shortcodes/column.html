@@ -1,3 +1,5 @@
 <div class="column">
-    {{ .Inner| .Page.RenderString }}
+ 
+    {{ .Inner | markdownify }}
+
 </div>
