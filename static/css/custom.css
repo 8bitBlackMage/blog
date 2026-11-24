@@ -1,9 +1,5 @@
 @import "https://www.nerdfonts.com/assets/css/webfont.css";
 
-
-
-
-
 .column {
   float: left;
   width: 50%;
@@ -32,6 +28,14 @@
 
 }
 
+.selfie
+{
+    align-self: center;
+    border: 2px solid transparent;
+    outline:var(--accent) dotted 2px;
+    margin: auto;
+    padding: 20px;
+}
 
 .contact{
   border: 1px solid var(--accent);
@@ -81,4 +85,12 @@ a:hover {
 a:active {
       text-decoration: none;
 }
+}
+
+.portfolioItem {
+    .date {
+        display: block;
+        color: var(--accent);
+        margin-left: 5px;
+    }
 }

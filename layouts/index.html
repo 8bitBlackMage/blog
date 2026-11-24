@@ -1,0 +1,112 @@
+{{ define "main" }}
+  {{ if .Content }}
+    <div class="index-content {{ if .Params.framed -}}framed{{- end -}}">
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+<div class="break"></div>
+
+<h2>Hi Im Lyra!</h2>
+
+<div class ="row">
+    <div class ="column">
+            <img class="selfie" src="img/me.png">
+    </div>
+    <div class="column">
+        I'm a:
+        <ul>
+        <li> Trans woman (she / her)</li>
+        <li> Former Programmer (I'm sure I'd do it again for adequate coin)</li>
+        <li> Musician</li>
+        <li> Mixing and Recording Engineer</li>
+        <li> Anarcho Communist</li>
+        <li> Train and public transport nerd</li>
+        <li> Fan of anything with robots in it</li>
+        <li> Full time AI hater</li>
+        </ul>
+    </div>
+</div>
+<div class="break"></div>
+<h2>Find me!</h2>
+I post things here:
+<div class="row">
+<div class="column">
+    <button class="social">
+        <a href="https://bsky.app/profile/8bitblackmage.co.uk" target="_blank" class="share-btn email">
+            <i class="nf nf-fae-butterfly"></i>
+            <span>BlueSky</span>
+            </a>
+        </button>
+</div>
+<div class="column">
+    <button class="social">
+        <a href="https://www.instagram.com/8_bit_black_mage/" target="_blank" class="share-btn email">
+            <i class="nf nf-fa-instagram"></i>
+            <span>Instagram</span>
+            </a>
+        </button>
+</div>
+</div>
+I buy and make music here:
+<div class="row">
+<div class="column">
+    <button class="social">
+        <a href="https://www.serializd.com/user/lilithblackmage/profile" target="_blank" class="share-btn email">
+            <i class="nf nf-fa-bandcamp"></i>
+            <span>Bandcamp</span>
+            </a>
+        </button>
+</div>
+<div class="column">
+    <button class="social">
+        <a href="https://blackmage.bandcamp.com/" target="_blank" class="share-btn email">
+           <i class="nf nf-fa-bandcamp"></i>
+            <span>Artist page</span>
+            </a>
+        </button>
+</div>
+</div>
+
+I post code here:
+<div class="row">
+<div class="column">
+    <button class="social">
+        <a href="https://github.com/8bitBlackMage" target="_blank" class="share-btn email">
+            <i class= "nf nf-fa-github"  ></i>
+            <span>GitHub</span>
+            </a>
+        </button>
+</div>
+<div class="column">
+    <button class="social">
+        <a href="https://codeberg.org/8bitblackmage" target="_blank" class="share-btn email">
+            <i class="nf nf-linux-codeberg"></i>
+            <span>Codeberg</span>
+            </a>
+        </button>
+</div>
+</div>
+I complain about Movies and TV here:
+<div class="row">
+<div class="column">
+    <button class="social">
+        <a href="https://letterboxd.com/lilithblackmage/" target="_blank" class="share-btn email">
+            <i class="nf nf-md-movie_open"></i>
+            <span>Letterboxd</span>
+            </a>
+        </button>
+</div>
+<div class="column">
+    <button class="social">
+        <a href="https://www.serializd.com/user/lilithblackmage/profile" target="_blank" class="share-btn email">
+            <i class="nf nf-fa-tv"></i>
+            <span>Serialized</span>
+            </a>
+        </button>
+</div>
+</div>
+
+
+
+{{ end }}

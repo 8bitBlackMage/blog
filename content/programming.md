@@ -2,6 +2,8 @@
 title = 'programming'
 draft = false
 hide_share = true
+hide_title = true
+readingTime = false
 [Sitemap]
     no_RSS = true
 
@@ -10,7 +12,7 @@ hide_share = true
 # Tricking rocks into thinking using magic words
 
 
-By trade I am programmer working in the audio industry. Outside of my day job, I enjoy making games and hacking together small software toys. 
+Sometimes, I write code, here is a far from exhaustive list of things I do, and have been from time to time, paid to do.
 
 ### Languages and frameworks
 

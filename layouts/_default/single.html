@@ -1,8 +1,10 @@
 {{ define "main" }}
 <article class="post">
-  <h1 class="post-title">
-    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-  </h1>
+    {{- if  eq (.Param "hide_title") false -}}
+    <h1 class="post-title">
+      <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+    </h1>
+    {{end}}
   <div class="post-meta">
     {{- if .Date -}}
       <time class="post-date">
