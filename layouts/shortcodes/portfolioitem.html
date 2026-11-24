@@ -1,0 +1,10 @@
+<div class = "portfolioItem">
+    <hr class = "break">
+    <b>{{ .Get "name" | markdownify| plainify }} | {{ .Get "artist" | markdownify| plainify }} | </b> {{ .Get "year" | markdownify| plainify }}
+    {{- if  (.Get "spotify")}}
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src={{.Get "spotify"}} width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    {{end}}
+    {{- if (.Get "bandcamp")}}
+    <iframe style="border: 0; width: 100%; height: 152px;" src={{.Get "bandcamp"}} seamless><a href="https://blackmage.bandcamp.com/album/lesbian-mothman-hunters"></a></iframe>
+    {{end}}
+</div>
