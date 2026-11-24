@@ -15,8 +15,9 @@ hide_share=  true
 {{< column >}}
 I'm a :
 * Trans woman (she / her)
-* Programmer
+* Former Programmer (I'm sure I'd do it again for adequate coin)
 * Musician 
+* Mixing and Recording Engineer
 * Anarcho Communist 
 * Train and public transport nerd
 * Fan of anything with robots in it
@@ -32,10 +33,9 @@ This blog will probably be about to the above topics, but will probably be absol
 {{< icon "nf nf-fa-laptop" "Laptop" >}}
 * Macbook Pro 2021 M1 Pro 16GB RAM 512GB SSD
 * MacOS Senoma 
-  * Ableton Live 
-* Fedora Asahi Remix
-  * Gnome Desktop (Cosmic as soon as its ready though)
-  * VSCode / Neovim (if I don't want to use a mouse)
+  * Ableton Live
+  * Reaper
+  * Logic (if you ask nicely)
 
 {{< icon "nf nf-fa-desktop" "Desktop" >}}
 * AMD Ryzen 7 5800X3D GPU

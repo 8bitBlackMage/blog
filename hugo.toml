@@ -94,16 +94,13 @@ logoImage = "img/avatar.png"
 [languages.en.menu]
 [[languages.en.menu.main]]
 identifier = "about"
-name = "About Me"
+name = "About"
 url = "/about"
 [[languages.en.menu.main]]
 identifier = "programming"
 name = "Programming"
 url = "/programming"
-[[languages.en.menu.main]]
-identifier = "photos"
-name = "Photos"
-url = "/photos"
+
 
 [markup]
 [markup.highlight]
