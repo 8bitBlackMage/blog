@@ -1,5 +1,5 @@
 baseurl = "https://8bitblackmage.co.uk/"
-languageCode = "en-us"
+locale = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "re-terminal"
@@ -19,7 +19,6 @@ themeColor = "light-pink"
 
 # if you set this to 0, only submenu trigger will be visible
 showMenuItems = 5
-
 
 # show selector to switch language
 showLanguageSelector = false
@@ -93,9 +92,24 @@ logoImage = "img/avatar.png"
 
 [languages.en.menu]
 [[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+weight = 1
+url = "/"
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+weight = 1
+url = "/"
+[[languages.en.menu.main]]
 identifier = "about"
 name = "About"
 url = "/about"
+[[languages.en.menu.main]]
+identifier = "portfolio"
+name = "Portfolio"
+url = "/portfolio"
 [[languages.en.menu.main]]
 identifier = "programming"
 name = "Programming"
