@@ -51,7 +51,7 @@ This blog will probably be about to the above topics, but will probably be absol
 {{< iconbutton "https://bsky.app/profile/8bitblackmage.co.uk" "nf nf-fae-butterfly" "bluesky" >}}
 {{< iconbutton "https://github.com/8bitBlackMage" "nf nf-fa-github" "GitHub">}}
 {{< iconbutton "https://www.instagram.com/8_bit_black_mage/)" "nf nf-fa-instagram" "Instagram">}}
-{{< iconbutton "https://bandcamp.com/lilithblackmage" "nf nf-fa-bandcamp" "Bandcamp">}}
+{{< iconbutton "https://bandcamp.com/8bitblackmage" "nf nf-fa-bandcamp" "Bandcamp">}}
 {{< /column >}}
 
 {{< column >}}
